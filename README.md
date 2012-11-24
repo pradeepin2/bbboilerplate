@@ -1,5 +1,5 @@
-bbquiz
-======
-Backbone is awesome
+simple Boiler plate code for getting started with node 
 
-quiz application done in backbone (javascript mvc)
+node app.js
+
+will start the node server. http://localhost:8000 will show the index.html
